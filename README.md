@@ -30,6 +30,8 @@ Ability for users to checkout and pay for products.
 You should also have some sort of admin panel where only you can add products, set the prices, manage inventory, and more.
 
 Start with building the API first and then frontend; you can use tools like Postman to interact with your API. Alternatively, build a simple frontend with HTML, CSS and some templating engine like Jinja or EJS.
+https://github.com/fabrizio-DDoS/E-Commerce-API
+
 
 ainda vou conectar nesse
 Link: https://fabrizio-ddos.github.io/Imperfeita-Moda-sustent-vel/
